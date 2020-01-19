@@ -18,3 +18,8 @@ d.	sample.html
 
 Image can be build in localhost and run the container
 
+References used
+
+https://www.jamescoyle.net/how-to/1073-bash-script-to-create-an-ssl-certificate-key-and-request-csr
+https://www.nginx.com/resources/wiki/start/topics/examples
+https://docs.docker.com/
